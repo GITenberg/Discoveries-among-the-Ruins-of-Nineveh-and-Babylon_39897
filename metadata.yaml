@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40288'
     url: http://www.gutenberg.org/2009/agents/40288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39897#Discoveries-among-the-Ruins-of-Nineveh-and-Babylon
 gutenberg_issued: '2012-06-02'
 gutenberg_type: Text
 identifiers:
